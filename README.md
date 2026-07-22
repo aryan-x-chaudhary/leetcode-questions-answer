@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/aryan-x-chaudhary/leetcode-questions-answer/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/aryan-x-chaudhary/leetcode-questions-answer/tree/master/1672-richest-customer-wealth) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/aryan-x-chaudhary/leetcode-questions-answer/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1773-count-items-matching-a-rule](https://github.com/aryan-x-chaudhary/leetcode-questions-answer/tree/master/1773-count-items-matching-a-rule) |
 | [1920-build-array-from-permutation](https://github.com/aryan-x-chaudhary/leetcode-questions-answer/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/aryan-x-chaudhary/leetcode-questions-answer/tree/master/1929-concatenation-of-array) |
 ## Prefix Sum
@@ -66,5 +67,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1773-count-items-matching-a-rule](https://github.com/aryan-x-chaudhary/leetcode-questions-answer/tree/master/1773-count-items-matching-a-rule) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/aryan-x-chaudhary/leetcode-questions-answer/tree/master/1832-check-if-the-sentence-is-pangram) |
 <!---LeetCode Topics End-->
