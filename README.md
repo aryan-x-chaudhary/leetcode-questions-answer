@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/aryan-x-chaudhary/leetcode-questions-answer/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aryan-x-chaudhary/leetcode-questions-answer/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1389-create-target-array-in-the-given-order](https://github.com/aryan-x-chaudhary/leetcode-questions-answer/tree/master/1389-create-target-array-in-the-given-order) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/aryan-x-chaudhary/leetcode-questions-answer/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -77,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/aryan-x-chaudhary/leetcode-questions-answer/tree/master/0344-reverse-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/aryan-x-chaudhary/leetcode-questions-answer/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
